@@ -9,4 +9,9 @@ public class Cart
 	{
 		// add to cart
 	}
+	
+	public void RemoveFromCart()
+	{
+		
+	}
 }
